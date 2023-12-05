@@ -21,7 +21,3 @@ N/A
 ## License
 
 Please refer to the LICENSE in the repo.
-
-## Features
-
-There are very little features at the moment, but I plan to revisit this project and add more interactibility.
